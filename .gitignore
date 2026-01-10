@@ -1,6 +1,10 @@
 # Sources folder - do not upload
 .sources/
 
+# Claude Code configuration and chats
+.claude/
+chats/
+
 # Node modules
 node_modules/
 
