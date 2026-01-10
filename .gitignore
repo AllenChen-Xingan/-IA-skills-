@@ -4,6 +4,7 @@
 # Claude Code configuration and chats
 .claude/
 chats/
+.data/
 
 # Node modules
 node_modules/
