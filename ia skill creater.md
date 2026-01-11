@@ -1,4 +1,4 @@
----
+  ---
 name: course-to-skill-creator
 description: Applies systematic methodology to transform educational course content into executable Claude Code skills. Use when creating skills from course materials, mentions extracting cognitive models or converting theory to practice, or needs knowledge engineering workflows.
 

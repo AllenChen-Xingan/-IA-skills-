@@ -5,7 +5,7 @@ description: 快速建立领域知识框架,用20%努力获取80%核心知识。
 
 # 最小全局认识构建法
 
-用最小成本快速理解任何领域的核心框架。
+  用最小成本快速理解任何领域的核心框架。
 
 **核心价值**: 20%的努力 → 80%的核心知识
 
@@ -232,7 +232,6 @@ description: 快速建立领域知识框架,用20%努力获取80%核心知识。
 信息边界:
 - [ ] 定义了明确的信息来源范围
 - [ ] 选择了高质量信息边界(Web of Science > 百度)
-- [ ] 运用源反空思维验证了目标
 
 信息分布规律:
 - [ ] 应用布拉德福定律找到核心区期刊
@@ -242,11 +241,6 @@ description: 快速建立领域知识框架,用20%努力获取80%核心知识。
 知识框架:
 - [ ] 用2的3次方法或时空变量法构建框架
 - [ ] 创建了5个核心清单(概念、人物、资源、工具、行动)
-
-验证标准:
-- [ ] 能用自己的话解释核心概念
-- [ ] 能识别优质资源和劣质资源
-- [ ] 能将知识应用到实际问题
 
 ---
 
@@ -265,16 +259,6 @@ description: 快速建立领域知识框架,用20%努力获取80%核心知识。
 **理论基础**: [references/theory.md](references/theory.md)
 **六大原理详解**: [references/principles.md](references/principles.md)
 **完整案例集**: [references/cases.md](references/cases.md)
-
-**核心文献**:
-- Perkins, D. (2014). *Future Wise*. 中文版:《为未知而教,为未来而学》
-- Price, D. J. de Solla. (1961). *Science Since Babylon*. 中文版:《巴比伦以来的科学》
-- 信息分析课程第一期、第三期讲义
-
-**相关技能**:
-- `time-space-variable-method`: 时空变量分析法
-- `meta-reverse-empty`: 源反空思维框架
-
 ---
 
 *版本: v3.0 | 基于 tutorial-extractor 方法论优化*
